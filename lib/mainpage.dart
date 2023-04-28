@@ -40,30 +40,6 @@ class MainPage extends StatelessWidget {
                 const SizedBox(
                   height: 100,
                 ),
-                // SizedBox(
-                //   height: 125,
-                //   child: Container(
-                //     color: Colors.red,
-                //     padding: const EdgeInsets.all(25),
-                //     child: Column(
-                //       children: [
-                //         Container(
-                //           color: Colors.grey,
-                //           height: 25,
-                //           width: 200,
-                //         ),
-                //         const SizedBox(
-                //           height: 25,
-                //         ),
-                //         Container(
-                //           color: Colors.green,
-                //           width: double.infinity,
-                //           height: 25,
-                //         ),
-                //       ],
-                //     ),
-                //   ),
-                // ),
                 Stack(
                   children: [
                     Container(
